@@ -129,6 +129,84 @@
     "developer": "miHoYo",
     "release_date": "2020-09-28",
     "freetogame_profile_url": "https://www.freetogame.com/genshin-impact"
+  },
+  {
+    "id": 573,
+    "title": "Titan Revenge",
+    "thumbnail": "https://www.freetogame.com/g/573/thumbnail.jpg",
+    "short_description": "A 3D Norse-themed browser MMORPG developed and published by Game Hollywood Games",
+    "game_url": "https://www.freetogame.com/open/titan-revenge",
+    "genre": "MMORPG",
+    "platform": "Web Browser",
+    "publisher": "Game Hollywood Games",
+    "developer": "Game Hollywood Games",
+    "release_date": "2023-12-20",
+    "freetogame_profile_url": "https://www.freetogame.com/titan-revenge"
+  },
+  {
+    "id": 521,
+    "title": "Diablo Immortal",
+    "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
+    "short_description": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+    "game_url": "https://www.freetogame.com/open/diablo-immortal",
+    "genre": "MMOARPG",
+    "platform": "PC (Windows)",
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "release_date": "2022-06-02",
+    "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
+  },
+  {
+    "id": 522,
+    "title": "Flyff Universe",
+    "thumbnail": "https://www.freetogame.com/g/522/thumbnail.jpg",
+    "short_description": "Get the full Flyff experience on any platform with the free-to-play browser-based MMORPG Flyff Universe.",
+    "game_url": "https://www.freetogame.com/open/flyff-universe",
+    "genre": "MMORPG",
+    "platform": "Web Browser",
+    "publisher": "Gala Lab",
+    "developer": "Gala Lab",
+    "release_date": "2022-06-14",
+    "freetogame_profile_url": "https://www.freetogame.com/flyff-universe"
+  },
+  {
+    "id": 511,
+    "title": "Phantasy Star Online 2 New Genesis",
+    "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
+    "short_description": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
+    "game_url": "https://www.freetogame.com/open/pso2-new-genesis",
+    "genre": "MMORPG",
+    "platform": "PC (Windows)",
+    "publisher": "Sega",
+    "developer": "Sega",
+    "release_date": "2021-06-09",
+    "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
+  },
+  {
+    "id": 455,
+    "title": "Eternal Fury",
+    "thumbnail": "https://www.freetogame.com/g/455/thumbnail.jpg",
+    "short_description": "A free-to-play ARPG from R2 Games!",
+    "game_url": "https://www.freetogame.com/open/eternal-fury",
+    "genre": "MMORPG",
+    "platform": "Web Browser",
+    "publisher": "R2 Games",
+    "developer": "R2 Games",
+    "release_date": "2019-05-21",
+    "freetogame_profile_url": "https://www.freetogame.com/eternal-fury"
+  },
+  {
+    "id": 5,
+    "title": "Crossout",
+    "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
+    "short_description": "A post-apocalyptic MMO vehicle combat game! ",
+    "game_url": "https://www.freetogame.com/open/crossout",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "Targem",
+    "developer": "Gaijin",
+    "release_date": "2017-05-30",
+    "freetogame_profile_url": "https://www.freetogame.com/crossout"
   }
 ]
 }
